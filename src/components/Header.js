@@ -16,6 +16,7 @@ const Item = styled.p`
   font-family: 'Read';
   font-weight: bold;
   color: #fff;
+  padding: 10px;
 `;
 
 export default function header() {
